@@ -1,0 +1,24 @@
+{
+  "info": {},
+  "packages": {
+    "dlib-19.4-py27_2.tar.bz2": {
+      "build": "py27_2",
+      "build_number": 2,
+      "depends": [
+        "boost 1.59.*",
+        "jpeg",
+        "libpng 1.6.*",
+        "numpy >=1.10",
+        "python 2.7*",
+        "sqlite 3.*"
+      ],
+      "license": "Boost Software License",
+      "md5": "007975d2a46d9526534cc11e66695c82",
+      "name": "dlib",
+      "sig": null,
+      "size": 2590112,
+      "subdir": "linux-64",
+      "version": "19.4"
+    }
+  }
+}
